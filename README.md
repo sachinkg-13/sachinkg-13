@@ -53,13 +53,6 @@
   <img src="https://streak-stats.demolab.com?user=sachinkg-13&theme=dark&hide_border=true&border_radius=5&card_width=450" alt="GitHub Streak Stats"  width="49%" />
 </p>
 
-
-
-<!--## 📫 How to Reach Me
-- 💼 LinkedIn: [Sachin Kumar Gupta](https://www.linkedin.com/in/sachin-kumar-gupta-34b2b8243/)
-- 🐦 Twitter: [sachinkg1309](https://x.com/sachinkg1309?t=QKrkMRdMtEqEba6REeifOA&s=09)
-- 🔗 Website: [Website](https://your-website.com)-->
-
 <h1 align="center" style="font-family: 'Poppins', sans-serif;"><em>Feel free to reach out! 😊</em></h1>
 
 
