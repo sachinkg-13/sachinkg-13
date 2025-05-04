@@ -12,7 +12,6 @@
 ![Profile Summary](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=FF8B3D,D45E1B&width=100%)
 
 ## Technologies 
-
 <table>
   <tr>
     <th width="50%">Languages</th>
