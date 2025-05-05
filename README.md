@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&pause=1000&color=D1D7E0&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Sachin+Kumar+Gupta+👋;Full+Stack+Developer+🖥️;Let's+connect!+🤝" alt="Typing animation" />
 </p>
-
 <h3 align="center">I'm a Full-Stack Developer with a strong foundation in both Front-end and Back-end technologies. Having successfully completed my backend development journey, I'm now focused on mastering Data Structures and Algorithms (DSA) to enhance my problem-solving skills and technical expertise.</h3>
 
 <p align="center">
